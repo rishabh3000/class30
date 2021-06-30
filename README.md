@@ -1,0 +1,2 @@
+# class30
+code
